@@ -1,0 +1,14 @@
+{
+    "name": "shovan04/php_route",
+    "description": "A advancd php project with route env and more feture was provided by Shovan Mondal",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shovan04",
+            "email": "shovanm50@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
