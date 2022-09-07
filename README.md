@@ -27,3 +27,7 @@ and here copy the first line   // like -> /test/test/php_route/
 ## Step 4.
 open .env file and and pest it on REPLACE_URL
 
+# work with this project 
+  ### create your html files on src folder & php files on php folder & javascript files on js folder
+  
+ ### and access all the pages change .env file add html url and access url on router.php file
