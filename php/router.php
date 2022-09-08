@@ -5,6 +5,8 @@ $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
 $url = $_SERVER['REQUEST_URI'];
+// echo $url;
+
 $url = str_replace($_ENV['REPLACE_URL'],'',$url);
 $arr = explode('/',$url);
 
